@@ -1,0 +1,21 @@
+{
+  "name": "file-handling-in-nodejs-piyush-garg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayantan007pal/File-Handling-In-Nodejs-Piyush-Garg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sayantan007pal/File-Handling-In-Nodejs-Piyush-Garg/issues"
+  },
+  "homepage": "https://github.com/sayantan007pal/File-Handling-In-Nodejs-Piyush-Garg#readme"
+}
